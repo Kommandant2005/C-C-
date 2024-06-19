@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1718642565 source:d:\c programs\hello21\main.c
+	<stdio.h>
+	<stdlib.h>
+

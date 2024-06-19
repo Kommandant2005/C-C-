@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1718633029 source:d:\c programs\hello19\main.c
+	<stdio.h>
+	<stdlib.h>
+
