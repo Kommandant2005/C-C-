@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1718631043 source:d:\c programs\hello16\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
